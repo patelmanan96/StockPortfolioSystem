@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 import java.util.Calendar;
 import java.util.List;

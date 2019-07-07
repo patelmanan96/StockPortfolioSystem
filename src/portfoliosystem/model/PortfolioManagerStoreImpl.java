@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 import java.io.File;
 import java.io.FileNotFoundException;

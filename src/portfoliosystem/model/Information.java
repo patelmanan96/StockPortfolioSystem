@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 import java.text.NumberFormat;
 import java.util.Calendar;

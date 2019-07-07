@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 public interface PortfolioManagerExtended extends PortfolioManager {
 

@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 /**
  * This class extends the class PortfolioManagerImpl. It creates the object of the new Portfolio

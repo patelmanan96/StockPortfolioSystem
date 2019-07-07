@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 import java.util.GregorianCalendar;
 import java.util.HashMap;

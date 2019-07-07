@@ -1,4 +1,4 @@
-package model;
+package portfoliosystem.model;
 
 import java.io.IOException;
 import java.text.NumberFormat;
